@@ -31,5 +31,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/DEIN_GITHUB_NAME/xmrig-proxy:latest
-            ghcr.io/DEIN_GITHUB_NAME/xmrig-proxy:6.24.0
+            ghcr.io/Danit2/xmrig-proxy:latest
+            ghcr.io/Danit2/xmrig-proxy:6.24.0
